@@ -41,10 +41,7 @@
 # after the 'midule' is loaded we can call the 'main()' function from the
 # 'module' and use the GUI
 
-
-
 module HelloWorld
-    #
     using Interact
     using Blink
 
