@@ -1,0 +1,8 @@
+name = "HelloWorld"
+uuid = "1ea10122-d842-11e9-3033-050316dad03e"
+authors = ["kobied <kedelman@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Blink = "ad839575-38b3-5650-b840-f874b8c74a25"
+Interact = "c601a237-2ae4-5e1e-952c-7a85b0c7eef1"
